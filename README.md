@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovemAlex&layout=compact&hide_border=true&title_color=ff0000&text_color=00bfbf&bg_color=0d1117" alt="Alexsandro Jr's most used lenguages" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JovemAlex&bg_color=0d1117&color=ff0000&line=ff6b6b&point=ffcccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JovemAlex&theme=github-compact&line=fc2c03&area=true&area_color=ff5230&title_color=fc2c03&point=ff8c75)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 

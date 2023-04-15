@@ -118,5 +118,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jovemalex&title=Commits,Repositories,Followers&row=2&column=3&theme=onestar&no-frame=true&margin-w=20" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jovemalex&title=Commits,Repositories,Followers&row=2&column=3&theme=onestar&no-frame=true&margin-w=30" alt="trophies"/>
 </div>

@@ -9,8 +9,8 @@
 
 <div align="center">
 <h2 style="color:#ff0000;"><strong>Entre em contato comigo!</strong></h2>
-<a href="https://www.linkedin.com/in/alexhnt/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-1d2226?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="linkedin" /></a>
-<a href="mailto:alexsandroandrade.jr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-1d2226?style=for-the-badge&logo=gmail&logoColor=d14836" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/alexhnt/" target="blank"><img src="https://img.shields.io/badge/-LINKEDIN-1d2226?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="linkedin" /></a>
+<a href="mailto:alexsandroandrade.jr@gmail.com" target="blank"><img src="https://img.shields.io/badge/-GMAIL-1d2226?style=for-the-badge&logo=gmail&logoColor=d14836" alt="gmail" /></a>
 </div><br/>
 
 <table align="center">

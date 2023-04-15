@@ -6,12 +6,16 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
 <h2 style="color:#ff0000;"><strong>Entre em contato comigo!</strong></h2>
 <a href="https://www.linkedin.com/in/alexhnt/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-1d2226?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="linkedin" /></a>
 <a href="mailto:alexsandroandrade.jr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-1d2226?style=for-the-badge&logo=gmail&logoColor=d14836" alt="gmail" /></a>
-</div><br/>
+</div>
+
+<br/>
+<br/>
 
 <table align="center">
   <tr>
@@ -109,3 +113,10 @@
     </td>
   </tr>
 </table>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jovemalex&title=Commits,Repositories,Followers&row=2&column=3&theme=onestar&no-frame=true&margin-w=20" alt="trophies"/>
+</div>

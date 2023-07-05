@@ -17,6 +17,14 @@
 <br/>
 <br/>
 
+<div align="center">
+    <h3>Aprendendo:</h3>
+    <img src="https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" />
+</div>
+
+<br/>
+<br/>
+
 <table align="center">
   <tr>
     <td>
